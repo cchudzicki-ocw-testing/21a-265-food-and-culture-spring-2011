@@ -9,7 +9,6 @@ menu:
     parent: 5f4c706d14b7b9a2c321b449fbd15c34
     weight: 90
 title: Final Paper
-type: course
 uid: 97f24300-f309-82ed-43e5-f52114264d72
 ---
 

@@ -9,7 +9,6 @@ menu:
     parent: 5f4c706d14b7b9a2c321b449fbd15c34
     weight: 70
 title: Final Paper Proposal
-type: course
 uid: 00a7d2bd-5bf5-a258-479e-35a969849784
 ---
 

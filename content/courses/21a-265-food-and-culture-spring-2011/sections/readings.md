@@ -8,7 +8,6 @@ menu:
     name: Readings
     weight: 20
 title: Readings
-type: course
 uid: 8a50fdf9-efd2-91bf-81c8-cff855daf621
 ---
 

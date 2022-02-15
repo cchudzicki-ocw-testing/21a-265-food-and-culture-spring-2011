@@ -9,7 +9,6 @@ menu:
     parent: 5f4c706d14b7b9a2c321b449fbd15c34
     weight: 100
 title: Research Paper Style Sheet
-type: course
 uid: f734b60f-0842-16a9-22f1-d322484346d6
 ---
 

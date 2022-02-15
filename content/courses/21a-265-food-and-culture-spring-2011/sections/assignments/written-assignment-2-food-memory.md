@@ -9,7 +9,6 @@ menu:
     parent: 5f4c706d14b7b9a2c321b449fbd15c34
     weight: 50
 title: 'Written Assignment 2: Food Memory'
-type: course
 uid: adaecb14-dee1-121e-946c-7025bbcd36c7
 ---
 

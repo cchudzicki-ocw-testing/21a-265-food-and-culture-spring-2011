@@ -9,7 +9,6 @@ menu:
     parent: 5f4c706d14b7b9a2c321b449fbd15c34
     weight: 40
 title: 'Written Assignment 1: Food and Power'
-type: course
 uid: c05cbfcd-d23e-dcd4-97cd-81422743fd56
 ---
 

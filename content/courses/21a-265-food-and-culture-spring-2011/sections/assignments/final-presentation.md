@@ -9,7 +9,6 @@ menu:
     parent: 5f4c706d14b7b9a2c321b449fbd15c34
     weight: 80
 title: Final Presentation
-type: course
 uid: 708aa47e-0ee3-b8bc-60f4-be263e1e64be
 ---
 

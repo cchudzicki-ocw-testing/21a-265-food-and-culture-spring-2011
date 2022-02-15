@@ -9,7 +9,6 @@ menu:
     parent: 5f4c706d14b7b9a2c321b449fbd15c34
     weight: 60
 title: 'Written Assignment 3: Decipher a Meal'
-type: course
 uid: 5fc160d6-71c9-4055-7fde-229339a16847
 ---
 
